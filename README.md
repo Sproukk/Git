@@ -11,3 +11,7 @@ https://github.com/Sproukk/Git/tree/main
 
 ## 3. Напишите свою первую программу:
 ![Alt text](program.png)
+
+## 4. Скомпилируйте и запустите её:
+
+![Alt text](hellowrld.png)
