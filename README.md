@@ -27,3 +27,9 @@ https://github.com/Sproukk/Git/tree/main
 ## 7. Объектные файлы:
 
 ![Alt text](data.png)
+
+
+## Список использованных источников:
+https://doka.guide/tools/markdown/
+
+
