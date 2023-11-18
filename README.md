@@ -19,3 +19,7 @@ https://github.com/Sproukk/Git/tree/main
 ## 5. Препроцессор:
 
 ![Alt text](33.png)
+
+## 6. Компилятор:
+
+![Alt text](red.png)
