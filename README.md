@@ -23,3 +23,7 @@ https://github.com/Sproukk/Git/tree/main
 ## 6. Компилятор:
 
 ![Alt text](red.png)
+
+## 7. Объектные файлы:
+
+![Alt text](data.png)
