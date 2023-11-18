@@ -15,3 +15,7 @@ https://github.com/Sproukk/Git/tree/main
 ## 4. Скомпилируйте и запустите её:
 
 ![Alt text](hellowrld.png)
+
+## 5. Препроцессор:
+
+![Alt text](33.png)
