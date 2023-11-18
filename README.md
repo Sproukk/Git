@@ -1,4 +1,4 @@
 # Лабораторная работа №0
 ## Задание 
 
-![Alt text](Zadanie.png)
+![Alt text](Zadanie1.png)
